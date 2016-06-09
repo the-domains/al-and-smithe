@@ -1,0 +1,28 @@
+name: al&smithe
+favicon: null
+layout_spectrum: 0.19473013235256076
+typography_spectrum: 0.8994065804872662
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.21398997656069696
+  lightness: 0.4737651201430708
+  saturation: 0.8594060516916215
+  rhythmicContrast: 0.2118137946818024
+purpose: []
